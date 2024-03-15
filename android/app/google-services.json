@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215652731338",
+    "project_id": "flutter-tutorial-pizza-app",
+    "storage_bucket": "flutter-tutorial-pizza-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215652731338:android:b91e8e62a02378d209a733",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqvjfZteDxtB03dHO6GokV3rL5FA8vUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
